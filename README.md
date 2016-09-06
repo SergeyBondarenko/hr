@@ -1,3 +1,3 @@
 # hr-python
 
-My answers to Python hackerrank.com problems.
+My answers to Python www.hackerrank.com problems.
