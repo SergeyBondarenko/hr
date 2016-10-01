@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
 string = raw_input().strip()
-print(string.swapcase())
+print("-".join(string.split(" ")))
